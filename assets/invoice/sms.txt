@@ -1,0 +1,1 @@
+#name#! Your reservation is confirmed for #checkin#. Reservation code: #code#. Also, check your email for a detailed invoice and payment information. Have a nice stay!

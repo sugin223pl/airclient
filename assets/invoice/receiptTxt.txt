@@ -1,0 +1,34 @@
+Invoice #: {time}
+Created: {date_now}
+Due: {date_due}
+----------------------
+
+{home_name} || ({guests} {guests_str})
+{rate} x {nights} nights:	{subtotal}
+{discount_text}
+Cleaning fee:	{cl_fee}
+Service fee:	{sv_fee}
+{deposit_text}
+{coupon_text}
+-------------------------------
+
+Total payment
+
+{duenow_text}
+{duenow}{duenext}
+
+-------------------------------
+-------------------------------
+
+Pay with: {payment_gateway}
+{payment_name}
+{payment_details}
+
+-------------------------------
+-------------------------------
+IMPORTANT*
+{payment_instructions}
+
+-------------------------------
+-------------------------------
+EMAIL ID: {email_id}
